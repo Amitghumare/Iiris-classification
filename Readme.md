@@ -30,5 +30,3 @@ This project uses Machine Learning to classify iris flowers into three species:
   - Sepal Width
   - Petal Length
   - Petal Width
-
----
